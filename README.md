@@ -1,8 +1,8 @@
-# 🌿 Altius — Anonymous Mental Wellness Platform for Students
+# 🦚 Altius — Anonymous Mental Wellness Platform for Students
 
 **A safe, anonymous space where college students can check in on their mental health, talk to an AI companion, track their mood, connect with peers, and reach a real counselor — all without revealing their identity.**
 
-> 🎓 Built for VIT Pune — Smart India Hackathon (SIH) 2025
+> 🎓 Altius — Techno India University MCA ESD Project 26-27
 
 ---
 
@@ -51,31 +51,31 @@ The platform serves three roles:
 ## 📸 Screenshots
 
 ### Landing & Onboarding
-![Welcome Screen](./screenshots/01-welcome.png)
+![Welcome Screen](To be Added)
 *Students choose their role — Student, Counselor, or Admin — to enter their dedicated experience.*
 
 ### Student Wellness Report
-![Wellness Report](./screenshots/02-wellness-report.png)
+![Wellness Report](To be Added)
 *PHQ-9 and GAD-7 results presented clearly, with personalized recommendations based on severity.*
 
 ### AI Chat Support (Multilingual)
-![AI Chat](./screenshots/04-ai-chat.png)
+![AI Chat](To be Added)
 *Conversational support that responds naturally in English, Hindi, and Marathi.*
 
 ### Game
-![Game ](./screenshots/05-mood-tracker.png)
+![Game ](To be Added)
 
 
 ### Counselor Dashboard
-![Counselor Dashboard](./screenshots/06-community.png)
+![Counselor Dashboard](To be Added)
 
 
 ### Admin Portal
-![Admin Portal](./screenshots/07-counselor-dashboard.png)
+![Admin Portal](To be Added)
 *Counselors see flagged students sorted by severity and join sessions in one click.*
 
 ### 
-![](./screenshots/08-admin-overview.png)
+![](To be Added)
 *Real-time, anonymized campus mental health metrics for institutional oversight.*
 
 ---
@@ -111,8 +111,8 @@ The platform serves three roles:
    localhost:3000                               │
                                                   ▼
                                           ┌───────────────┐
-                                          │   Llama 3 AI  │
-                                          │  (Chat/Crisis)│
+                                          │ OpenAi120B AI │
+                                          │ (Chat/Crisis)│
                                           └───────────────┘
 ```
 
@@ -234,4 +234,4 @@ Altius AI is **not a replacement for professional mental health care**. The AI c
 
 ---
 
-<p align="center">Built with care, for student wellbeing 🌿</p>
+<p align="center">Built with care, for student wellbeing 🦚</p>
