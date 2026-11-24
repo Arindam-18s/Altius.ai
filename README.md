@@ -235,3 +235,7 @@ Altius AI is **not a replacement for professional mental health care**. The AI c
 ---
 
 <p align="center">Built with care, for student wellbeing 🦚</p>
+
+## Contributors
+
+- Subhasish Sarkar (@Subhasish95)
